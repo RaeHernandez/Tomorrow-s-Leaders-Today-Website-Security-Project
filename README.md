@@ -1,4 +1,4 @@
-# Tomorrow-s-Leaders-Today-Website-Security-Project
+# Website Security Project - Tomorrow's Leaders Today
 Internship project demonstrating web security assessment, phishing awareness, incident management, and cybersecurity education for nonprofit staff and volunteers.
 
 ## Overview
