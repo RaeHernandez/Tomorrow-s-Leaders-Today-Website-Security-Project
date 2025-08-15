@@ -8,7 +8,7 @@ Collaborative internship project with **Tomorrow’s Leaders Today (TLT)**. Focu
 - Jeremiah So
 - Amanda Salazar
 - Yana Wall
-- [Your Name]
+- Raeesah Hernandez
 
 ## Key Components
 1. **Website Security & Management**
